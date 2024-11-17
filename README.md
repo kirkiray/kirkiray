@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Kirkuray </h1>
+<h1 align="center">👋 Hello! I'm Kirkiray </h1>
 
 ## About me
 **I am a beginner programmer.** I'm developing in the field of web technologies, doing **back-end** and **python** development. I continue to improve my programming knowledge.
